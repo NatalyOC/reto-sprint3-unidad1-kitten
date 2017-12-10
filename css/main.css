@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: 600px;
+}
+.background-img {
+    background-image: url(../assets/images/sunny-day.jpg);
+    background-position: center;
+    background-size: cover; 
+    height: 100%;
+    width: 100%;
+    
+}
+/* .images-kitty{
+    background-image: url(../assets/images/kitten-small.png);
+    background-size: cover; 
+    z-index: 1000;
+    width: 100%;
+}
+ */
+ .row, .column{
+     height: 100%;
+ }
